@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이윤서"
 description              : "시스템 프로그램을 위한 C언어"
-url                      : # the base hostname & protocol for your site e.g. "https://Yunseolee0305.github.io"
+url                      : # "https://Yunseolee0305.github.io" the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Yunseolee0305/Yunseolee0305.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
