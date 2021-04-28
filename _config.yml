@@ -25,7 +25,7 @@ url                      : # "https://Yunseolee0305.github.io" the base hostname
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Yunseolee0305/Yunseolee0305.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/camerafinal.png"
+logo                     : "/assets/images/cameraicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
