@@ -27,7 +27,6 @@ https://th.bing.com/th/id/Rd29ff6fbbc472d4d5ea86db17b98d35c?rik=OCFvStiRWqutlA&r
 
 --- 
 ### ★ BEAUTY AND THE BEAST (미녀와 야수,2017)
-[![beauty and the beast](/assets/images/beauty and the beast.png "더 자세한 내용을 원하시면 방문해 보세요
-")](https://tenasia.hankyung.com/movie/article/2017030670634)
+[![beauty and the beast](/assets/images/beauty and the beast.png)
 
 ‘미녀와 야수’는 1991년 개봉한 동명의 디즈니 애니메이션을 실사 촬영과 최첨단 기술을 결합해 재탄생시킨 작품이다. 저주에 걸려 야수가 된 왕자가 벨을 만나 진정한 사랑에 눈뜨게 기본 줄거리는 그대로 차용했다. 벨과 야수를 비롯해 촛대, 시계, 주전자 등 원작 속 캐릭터들을 리얼하게 구현했다. 비주얼과 음악은 한층 더 화려해지고 웅장해졌다.
