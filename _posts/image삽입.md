@@ -11,25 +11,23 @@ layout: single
 
 
 --- 
-### ★ CINDERELLA (신데렐라,)
-![allen](/assets/images/allen.png)
-컴퓨터의 아버지라고 불리는 앨런 튜링의 이야기이다. 2차 세계대전 당시 절대 해독이 불
-가능한 독일의 애니그마를 해독하기 위해 앨런 튜링이 기계를 발명하는 내용이다. 
+### ★ CINDERELLA (신데렐라,2015)
+![cinderella](/assets/images/cinderella.png)
+
+‘신데렐라’(감독 케네스 브래너)는 어린 관객들에게 동심을, 어른 관객들에게 향수를 일으키며 흥행했다. 당시 신인이던 릴리 제임스가 신데렐라 역을 맡았으며, 케이트 블란쳇, 헬레나 본햄 카터, 리차드 매든, 스텔란 스카스가드 등 유명 배우들이 총출동 해 화제가 됐다. 기존 스토리를 그대로 따른 영화는 평이한 평을 받았으나, 신데렐라가 변신하는 장면을 비롯해 화려한 시각 연출만큼은 호평을 받았다.
 
 
 --- 
 ### ★ ALADDIN (알라딘,2019)
-![bill_jobs][silicon]
-[ s i l i c o n ] :
-https://an2-img.amz.wtchn.net/image/v1/watcha/image/upload/c_fill,h_400,q_80,w
-_280/v1466137418/h2jmm7eh11jdpa8sdoth.jpg
-PC 산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약상을 그린 작품이다.
+![Aladdin][disnep]
+[disnep] :
+https://th.bing.com/th/id/Rd29ff6fbbc472d4d5ea86db17b98d35c?rik=OCFvStiRWqutlA&riu=http%3a%2f%2fwww.artinsight.co.kr%2fdata%2ftmp%2f1906%2fe09516cf9c322cbd57d43b576f2baf25_FyjJLkZh67j6jTPcf2sj.jpg&ehk=2wTZbkyrQKobSF%2bYZb285iyr112r3IHEQ3Vb995h83s%3d&risl=&pid=ImgRaw
+이 영화에서 손꼽힐 수 있는 포인트는 바로 윌 스미스의 연기력과 똑같을 정도로 찰떡인 자스민 공주 캐스팅. 트레일러로 인한 평가와는 달리 윌 스미스의 연기에 대해서는 이견이 갈리지 않는다. 나오미 스콧이 부른 자스민의 전용 테마곡 Speechless 또한 호평하는 쪽이 많은 편으로, 전체적인 뮤지컬씬이 괜찮게 뽑혔다는 평이다. 원작에 비해 자스민이 좀 더 자주적이고 야심있게 나왔단 것도 호평을 받고 있다. 하지만 자스민 분량의 증가로 알라딘의 행적이 원작보다 축소되어 아쉬움을 표하는 관람객들도 많다.
 
 
 --- 
-### ★ 쇼셜 네트워크
-[![mark](/assets/images/mark.png "더 자세한 내용을 원하시면 방문해 보세요
-")](https://topclass.chosun.com/board/view.asp?catecode=J&tnu=201901100028)
+### ★ BEAUTY AND THE BEAST (미녀와 야수,2017)
+[![beauty and the beast](/assets/images/beauty and the beast.png "더 자세한 내용을 원하시면 방문해 보세요
+")](https://tenasia.hankyung.com/movie/article/2017030670634)
 
-페이스북 창업자 마크 주커버거 이야기이다. 냅스터 개발자 숀 파커가 등장하여 페이스북의
-초대 CEO가 되는 부분도 흥미롭다.
+‘미녀와 야수’는 1991년 개봉한 동명의 디즈니 애니메이션을 실사 촬영과 최첨단 기술을 결합해 재탄생시킨 작품이다. 저주에 걸려 야수가 된 왕자가 벨을 만나 진정한 사랑에 눈뜨게 기본 줄거리는 그대로 차용했다. 벨과 야수를 비롯해 촛대, 시계, 주전자 등 원작 속 캐릭터들을 리얼하게 구현했다. 비주얼과 음악은 한층 더 화려해지고 웅장해졌다.
